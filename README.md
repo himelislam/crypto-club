@@ -45,4 +45,4 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
 2.  Get details of a coin by ID api: https://api.coingecko.com/api/v3/coins/${id}
     
 
-3. Live Site Link : https://cryptoclub12.netlify.app/
+3. Live Site Link : https://cryptoclub1.netlify.app/
